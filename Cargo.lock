@@ -2576,9 +2576,9 @@ dependencies = [
 
 [[package]]
 name = "wasmer-types"
-version = "2.1.1"
+version = "2.2.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "434e1c0177da0a74ecca90b2aa7d5e86198260f07e8ba83be89feb5f0a4aeead"
+checksum = "659fa3dd6c76f62630deff4ac8c7657b07f0b1e4d7e0f8243a552b9d9b448e24"
 dependencies = [
  "indexmap",
  "loupe",
