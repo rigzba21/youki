@@ -2589,9 +2589,9 @@ dependencies = [
 
 [[package]]
 name = "wasmer-vfs"
-version = "2.1.1"
+version = "2.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "8a3a58a3700781aa4f5344915ea082086e75ba7ebe294f60ae499614db92dd00"
+checksum = "9302eae3edc53cb540c2d681e7f16d8274918c1ce207591f04fed351649e97c0"
 dependencies = [
  "libc",
  "thiserror",
